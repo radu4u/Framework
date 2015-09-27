@@ -1,0 +1,1 @@
+call mvn test -Dbrowser=firefox -Dcucumber.options="-t @SingleSearch -f html:target/surefire-reports/cucumber/firefox
